@@ -79,7 +79,7 @@ FUTURE_PE_02/
 
 ## Submitted By
 
-**Name:** [Apna naam yahan likho]  
+**Name:** [rutvick yadav]  
 **Internship:** Prompt Engineering Internship  
 **Task:** FUTURE_PE_02
 
